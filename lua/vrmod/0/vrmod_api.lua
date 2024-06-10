@@ -1,6 +1,6 @@
-local addonVersion = 132
-local requiredModuleVersion = 20
-local latestModuleVersion = 21
+local addonVersion = 200
+local requiredModuleVersion = 23
+local latestModuleVersion = 23
 
 g_VR = g_VR or {}
 vrmod = vrmod or {}
